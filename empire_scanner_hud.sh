@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # === Empire Activity Monitor — Static HUD Style ===
-LOG_DIR="$HOME/Documents/Rice/EmpireScanner/EmpireScannerInfo"
-STREAM_URL="https://stream.durhampolicescanner.com/"
+LOG_DIR="$HOME/PathToYourScriptDirectory"
+#generic mp3 for scanner audio. Replace with real scanner audio URL
+STREAM_URL="https://ice1.somafm.com/dronezone-128-mp3"
 
 UNITS="$LOG_DIR/units.txt"
 GENDERS="$LOG_DIR/genders.txt"
