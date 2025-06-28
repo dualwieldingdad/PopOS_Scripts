@@ -23,7 +23,6 @@ These tools must be installed on your system for the scripts to function:
 - [`btop`](https://github.com/aristocratos/btop) – System monitor (optional)  
 - [`figlet`](http://www.figlet.org/) – ASCII banner generator (optional)  
 - [`mpv`](https://mpv.io/) – For streaming audio (police scanner)  
-- `bash`, `shuf`, and standard Linux coreutils
 
 File structure for empire_scanner_hud.sh:
 Make sure line #4 LOG_DIR="$HOME/" is pointing to a directory you created to hold your 6 .txt files
