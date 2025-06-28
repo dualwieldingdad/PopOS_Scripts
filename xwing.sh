@@ -23,7 +23,8 @@ while true; do
     done
     echo
 
-    cat ~/Documents/Rice/xwing/xwing.txt || echo "Logo Missing"
+#Path to the ascii header
+    cat ~/PathToTheAsciHeader || echo "Logo Missing"
 
     echo -e "${purple}──────────────────────────────────────────────────────────────────${normal}"
 
