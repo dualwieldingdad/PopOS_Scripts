@@ -25,7 +25,11 @@ These tools must be installed on your system for the scripts to function:
 - [`mpv`](https://mpv.io/) – For streaming audio (police scanner)  
 - `bash`, `shuf`, and standard Linux coreutils
 
-To install most dependencies on Fedora/Nobara:
-
-```bash
-sudo dnf install cava fastfetch mpv figlet btop
+File structure for empire_scanner_hud.sh:
+Make sure line #4 LOG_DIR="$HOME/" is pointing to a directory you created to hold your 6 .txt files
+units.txt
+genders.txt
+species.txt
+actions.txt
+locations.txt
+notes.txt
