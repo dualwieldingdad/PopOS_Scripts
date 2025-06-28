@@ -24,11 +24,20 @@ These tools must be installed on your system for the scripts to function:
 - [`figlet`](http://www.figlet.org/) – ASCII banner generator (optional)  
 - [`mpv`](https://mpv.io/) – For streaming audio (police scanner)  
 
-File structure for empire_scanner_hud.sh:
-Make sure line #4 LOG_DIR="$HOME/" is pointing to a directory you created to hold your 6 .txt files
-units.txt
-genders.txt
-species.txt
-actions.txt
-locations.txt
-notes.txt
+- File structure for empire_scanner_hud.sh:
+- Make sure line #4 LOG_DIR="$HOME/" is pointing to a directory you created to hold your 6 .txt files
+- units.txt
+- genders.txt
+- species.txt
+- actions.txt
+- locations.txt
+- notes.txt
+
+- Cava Documentation(music visualizer) - https://github.com/karlstav/cava#installation
+- Fastfetch - https://github.com/fastfetch-cli/fastfetch#usage
+- Btop - https://github.com/aristocratos/btop
+- Broadcastify Scanner Feeds - https://www.broadcastify.com/listen/
+- YoutubeMusicDesktop - https://flathub.org/apps/app.ytmdesktop.ytmdesktop
+- YTMDesktop Themes - https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player
+
+
